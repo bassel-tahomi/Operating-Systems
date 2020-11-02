@@ -8,3 +8,5 @@ Every program that runs on a computer - in the background or foreground - is a p
 Usually only one process can be performed per CPU at a time. 
 However, many processes can be multi-tasking that require a very fast switching processes.
 The operating system makes this kind of multitasking possible.
+A third function of the opearting system is Input/Output Management, 
+A lot of data (and instructions) is moved through Input/Output devices. It is an operating system that controls all actions of Input/Output devices. Reads data from the input device; It stores data at a specific location; It sends the data to a specified output device.
